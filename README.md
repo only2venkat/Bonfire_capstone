@@ -49,6 +49,9 @@ Decomposition and Stationarity: Identified distinct patterns in sales data and c
 
 Clustering and Prophet Model: Cluster analysis revealed varied Prophet model performances across different sales categories, highlighting opportunities for refinement.
 
+**Diesel Prophet Model Output**
+![image](https://github.com/only2venkat/Bonfire_capstone/assets/134881202/c20a086a-b8f6-470e-aaee-c39a2ed8378a)
+
 ARIMA and SARIMA Challenges: While ARIMA showed promise, challenges in capturing complex sales patterns were observed. SARIMA struggled with weekly seasonality and holiday considerations.
 
 *Next Steps:*
@@ -59,3 +62,6 @@ Communication and Reporting: Clear and concise communication of findings, emphas
 Continuous Monitoring and Updating: Establishment of a monitoring system for ongoing model performance updates with new data.
 
 Our goal is to refine existing models, explore alternative approaches, and elevate forecasting capabilities to provide actionable insights for Maverik's strategic decisions.
+
+View our Presentation Slides: 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/only2venkat/Bonfire_capstone/blob/1ebe33024c82ffc9d2e45a9d94ba28175082df8b/Capstone%20Presentation%20-%20Maverik.pdf)
